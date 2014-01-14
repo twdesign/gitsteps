@@ -1,0 +1,4 @@
+This is just a test of Git and Github
+My second file.
+And my third
+and fourth
