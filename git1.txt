@@ -1,1 +1,1 @@
-This is just a test of Git and Gitbu
+This is just a test of Git and Github
