@@ -1,2 +1,4 @@
 This is just a test of Git and Github
 My second file.
+Fix hotfix issue
+lets see how merge handles this!
