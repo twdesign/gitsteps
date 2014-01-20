@@ -1,4 +1,4 @@
 This is just a test of Git and Github
-My second file.
-And my third
+And my third file
 and fourth EDIT GOES HERE
+and lets add some more crap
